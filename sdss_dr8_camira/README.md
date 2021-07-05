@@ -5,4 +5,5 @@ Ref: [M. Oguri, MNRAS, 444, 147-161 (2014)](https://ui.adsabs.harvard.edu/abs/20
 | file       | description |
 |:---        |:---     |
 | camira_sdssdr8_all.dat.gz | old version presented in the 2014 paper (ver 1.0, 2014/06/14) |
-| camira_sdssdr8_v1p2_allfix.dat.gz | latest version (ver 1.2, 2015/11/09)  |
+| camira_sdssdr8_v1p2_allfix.dat.gz | newer version (ver 1.2, 2015/11/09)  |
+| camira_sdssdr8_v2_all.dat.gz | latest version (ver 2.0, 2016/06/22)  |
