@@ -1,0 +1,12 @@
+# HSC S16A CAMIRA cluster catalogs
+
+Ref: [M. Oguri, et al., PASJ, 70, S20 (2018)](https://ui.adsabs.harvard.edu/abs/2018PASJ...70S..20O/abstract) 
+
+Ref: [M. Oguri, MNRAS, 444, 147-161 (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.444..147O)
+
+| file       | description |
+|:---        |:---     |
+| camira_hsc_s16a_wide.tbl | Wide cluster catalogue w/o star mask  |
+| camira_hsc_s16a_wide_sm.tbl | Wide cluster catalogue w/ star mask   |
+| camira_hsc_s16a_wide_smnew.tbl | Wide cluster catalogue w/ star mask, updated using a new star mask |
+| camira_hsc_s16a_deep.tbl | Deep cluster catalogue |
