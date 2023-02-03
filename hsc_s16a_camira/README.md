@@ -4,6 +4,8 @@ Ref: [M. Oguri, et al., PASJ, 70, S20 (2018)](https://ui.adsabs.harvard.edu/abs/
 
 Ref: [M. Oguri, MNRAS, 444, 147-161 (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.444..147O)
 
+Photometric LRG catalog may be available [here](https://drive.google.com/drive/folders/19dKiNs7Wdq44X3AtYy2opOf8ulHTLWeM?usp=sharing).
+
 | file       | description |
 |:---        |:---     |
 | camira_hsc_s16a_wide.tbl | Wide cluster catalogue w/o star mask  |
