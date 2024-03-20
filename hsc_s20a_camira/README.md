@@ -12,5 +12,6 @@ Photometric LRG catalog may be available [here](https://drive.google.com/drive/f
 |:---        |:---     |
 | camira_hsc_s20a_wide.tbl | Wide cluster catalogue w/o star mask  |
 | camira_hsc_s20a_wide_sm.tbl | Wide cluster catalogue w/ star mask  |
+| camira_hsc_s20a_wide_sm_n10.tbl | Wide cluster catalogue w/ star mask, richness N>10  |
 | camira_hsc_s20a_dud.tbl | Deep/UD cluster catalogue w/o star mask |
 | camira_hsc_s20a_dud_sm.tbl | Deep/UD cluster catalogue w/ star mask |
