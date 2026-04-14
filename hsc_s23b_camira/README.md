@@ -2,7 +2,7 @@
 
 CAMIRA HSC final year cluster catalogs presented in Oguri et al. (2026).
 
-Ref: [M. Oguri, et al., PASJ, 78, 416 (2026)(https://ui.adsabs.harvard.edu/abs/2026PASJ...78..416O) 
+Ref: [M. Oguri, et al., PASJ, 78, 416 (2026)](https://ui.adsabs.harvard.edu/abs/2026PASJ...78..416O) 
 
 Ref: [M. Oguri, MNRAS, 444, 147-161 (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.444..147O)
 
